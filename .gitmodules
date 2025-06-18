@@ -2,3 +2,15 @@
 	path = minu-service-coffee
 	url = https://github.com/minu-study/minu-service-coffee.git
 	branch = develop
+[submodule "minu-service-coffee"]
+	path = minu-service-coffee
+	url = https://github.com/minu-study/minu-service-coffee.git
+	branch = develop
+[submodule "minu-core-coffee"]
+	path = minu-core-coffee
+	url = https://github.com/minu-study/minu-core-coffee.git
+	branch = develop
+[submodule "minu-domain-coffee"]
+	path = minu-domain-coffee
+	url = https://github.com/minu-study/minu-domain-coffee.git
+	branch = develop
