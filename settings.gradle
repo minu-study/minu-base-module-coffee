@@ -1,0 +1,2 @@
+rootProject.name = 'minu-base-module-coffee'
+include 'minu-service-coffee'
