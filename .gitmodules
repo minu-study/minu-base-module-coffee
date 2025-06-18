@@ -1,0 +1,4 @@
+[submodule "minu-service-coffee"]
+	path = minu-service-coffee
+	url = https://github.com/minu-study/minu-service-coffee.git
+	branch = develop
